@@ -1,0 +1,1 @@
+6ed1d0b0dfb726d0895c0663a224f0d3bf314314f9bc19add45020a8713cd0bb  vdsoft2000-0.6.0.nvda-addon

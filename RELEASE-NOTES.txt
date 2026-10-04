@@ -1,0 +1,8 @@
+VDSoft2000 0.6.0 - first GitHub release
+
+Nine U.S. English voices, streaming NVDA playback, interruptible synthesis,
+and voice customization controls. Includes recent pronunciation fixes,
+invisible Unicode formatting filtering, volume control, and rate boost.
+
+Install vdsoft2000-0.6.0.nvda-addon and restart NVDA.
+The SHA-256 checksum is provided alongside the add-on.
